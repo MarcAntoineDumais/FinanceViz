@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to FinanceViz, a tool to visualize financial data"/>
+  <HelloWorld msg="Welcome to FinanceViz, a tool to visualize financial data!"/>
 </template>
 
 <script lang="ts">
